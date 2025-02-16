@@ -16,7 +16,7 @@
 - [Tools](#Tools)
 
   
-- [Data Cleaning/Data Analysis](#Data_Cleaning/Data_Analysis)
+- [Data Cleaning/Data Analysis](#Data_Cleaning/Data_Cleaning)
 
   
 - [Explanatory Data Analysis](#Explanatory_Data_Analysis)
