@@ -32,15 +32,17 @@ Python libraries utilized:
 - Matplotlib and Seaborn for data visualization
 - NumPy for numerical computations
   
-- [Data Cleaning/Data Cleaning](#Data_Cleaning/Data_Cleaning)
+- [Data Preprocessing](#Data Preprocessing )
   
 Data preprocessing steps:
 - Data cleaning and preprocessing
 - Creation of a new column "Age_Group" to  categorize ages in the dataset
+- Checked and handled missing values
+- Revoming Duplicate values 
 
 
 - [Results/Findings](#Results/Findings)
-
+ 
 This comprehensive analysis explores the complex relationships between various risk factors and Alzheimer's disease, utilizing a dataset spanning 20 countries.
 
 #### Key Demographic Findings
