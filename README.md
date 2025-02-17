@@ -24,7 +24,7 @@ The primary dataset utilized for the project can be downloaded from the provided
 
   
 - [Tools](#Tools)
-# Tools 
+
 Python libraries utilized:
 
 - Pandas for data manipulation and analysis
@@ -36,9 +36,6 @@ Python libraries utilized:
 Data preprocessing steps:
 - Data cleaning and preprocessing
 - Creation of a new column "Age_Group" to  categorize ages in the dataset
-
-  
-- [Explanatory Data Analysis](#Explanatory_Data_Analysis)
 
 
 - [Results/Findings](#Results/Findings)
