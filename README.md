@@ -32,7 +32,7 @@ Python libraries utilized:
 - Matplotlib and Seaborn for data visualization
 - NumPy for numerical computations
   
-- [Data Preprocessing](#Data Preprocessing )
+- [Data Preprocessing](#Data_Preprocessing )
   
 Data preprocessing steps:
 - Data cleaning and preprocessing
@@ -40,7 +40,7 @@ Data preprocessing steps:
 - Checked and handled missing values
 - Removing Duplicate values
 
--[Explanatory Data Analysis](#Explanatory Data Analysis)
+-[Explanatory Data Analysis](#Explanatory_Data_Analysis)
 
 The EDA phase aimed to uncover patterns, relationships, and insights from the dataset. The following key findings emerged:
 
