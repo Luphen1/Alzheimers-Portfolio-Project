@@ -38,7 +38,31 @@ Data preprocessing steps:
 - Data cleaning and preprocessing
 - Creation of a new column "Age_Group" to  categorize ages in the dataset
 - Checked and handled missing values
-- Removing Duplicate values 
+- Removing Duplicate values
+
+-[Explanatory Data Analysis](#Explanatory Data Analysis)
+
+The EDA phase aimed to uncover patterns, relationships, and insights from the dataset. The following key findings emerged:
+
+1.  What was the total number of countries in the dataset?
+2.  How does Alzheimer's disease risk vary by age group?
+3.  What was the distribution of Alzheimer's disease risk in top five country having diabetes, Hypertension, family history, and genetic risk respectively?
+4.  What was the distribution of Alzheimer's disease across different age group with genetic risk and family history?
+5.  How does the prevalence of Alzheimer's disease vary across different country displaying average BMI, and cognitive test score?
+6.  What was the significant differences between male and female in the dataset?
+7.  What was the correlation between sleep quality, average BMI, and cognitive test score of Alzheimer's disease?
+8.  Find the distribution employment status of developing Alzheimer's disease.
+9.  How does smoking status influenced Alzheimer’s disease risk?
+10.  What was the relationship between alcohol consumption and Alzheimer's disease risk?
+11.  What impact does family history has on Alzheimer's disease risk across respective gender?
+12.  How does diabetes affect the risk of developing Alzheimer's disease for different respective country?
+13. How does Body Mass Index (BMI) influenced prevalence of Alzheimer's disease risk across dietary habit and Genetics?
+14.  How does social engagement level, urban, and rural living affected Alzheimer's disease?
+15.  What were the average rate of education level, BMI, and cognitive test score for age group whom are alcoholic and liable to Alzheimer's disease?
+16.  What were the percentage of depression level of countries with heart Alzheimer's disease risk?
+17.  What were the average cognitive test scores rate for age group with Alzheimer's disease risk?
+18.  What were the percentage of country with no Alzheimer's disease risk?
+19.  What were the percentage of country with no Alzheimer's disease risk?
 
 
 - [Results/Findings](#Results/Findings)
