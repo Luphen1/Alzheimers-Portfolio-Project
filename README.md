@@ -40,7 +40,7 @@ Data preprocessing steps:
 - Checked and handled missing values
 - Removing Duplicate values
 
--[Explanatory Data Analysis](#Explanatory_Data_Analysis)
+- [Explanatory Data Analysis](#Explanatory_Data_Analysis)
 
 The EDA phase aimed to uncover patterns, relationships, and insights from the dataset. The following key findings emerged:
 
