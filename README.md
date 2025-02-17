@@ -22,6 +22,16 @@ This comprehensive analysis explores the complex relationships between various r
 
   
 - [Tools](#Tools)
+# Tools 
+Python libraries utilized:
+
+- Pandas for data manipulation and analysis
+- Matplotlib and Seaborn for data visualization
+- NumPy for numerical computations
+
+Data preprocessing steps:
+- Data cleaning and preprocessing
+- Creation of a new column "age_group" to categorize ages in the dataset
 
   
 - [Data Cleaning/Data Cleaning](#Data_Cleaning/Data_Cleaning)
