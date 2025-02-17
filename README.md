@@ -38,7 +38,7 @@ Data preprocessing steps:
 - Data cleaning and preprocessing
 - Creation of a new column "Age_Group" to  categorize ages in the dataset
 - Checked and handled missing values
-- Revoming Duplicate values 
+- Removing Duplicate values 
 
 
 - [Results/Findings](#Results/Findings)
