@@ -15,12 +15,12 @@ This comprehensive analysis explores the complex relationships between various r
 - Diabetes, hypertension, family history, and genetic risk are prominent factors contributing to Alzheimer's disease risk.
 - Lifestyle factors such as sleep quality, physical activity, and social engagement also play a crucial role in determining Alzheimer's disease risk.
 - Education level, BMI, and cognitive test scores are correlated with Alzheimer's disease risk, particularly in individuals with a history of alcohol consumption.
-- 
+  
 
 
 - [Data Source](#Data_Source)
 
-The primary dataset utilized for the project can be downloaded from the provided link [https://www.kaggle.com/datasets/ankushpanday1/alzheimers-prediction-dataset-global](#[(https://www.kaggle.com/datasets/ankushpanday1/alzheimers-prediction-dataset-global)
+The primary dataset utilized for the project can be downloaded from the provided link [https://www.kaggle.com/datasets/ankushpanday1/alzheimers-prediction-dataset-global](#https://www.kaggle.com/datasets/ankushpanday1/alzheimers-prediction-dataset-global)
 
   
 - [Tools](#Tools)
